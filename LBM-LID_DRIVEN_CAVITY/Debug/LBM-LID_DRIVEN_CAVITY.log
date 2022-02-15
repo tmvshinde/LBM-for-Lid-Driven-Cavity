@@ -1,0 +1,11 @@
+﻿  LBM.cpp
+D:\HPC Practice\Infrastructure\LBM_try_04\LBM.cpp(16,11): warning C4305: '=': truncation from 'double' to 'float'
+D:\HPC Practice\Infrastructure\LBM_try_04\LBM.cpp(16,67): warning C4305: '=': truncation from 'double' to 'float'
+D:\HPC Practice\Infrastructure\LBM_try_04\LBM.cpp(16,102): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\HPC Practice\Infrastructure\LBM_try_04\LBM.cpp(18,16): warning C4305: '=': truncation from 'double' to 'float'
+D:\HPC Practice\Infrastructure\LBM_try_04\LBM.cpp(21,17): warning C4305: '=': truncation from 'double' to 'float'
+D:\HPC Practice\Infrastructure\LBM_try_04\LBM.cpp(25,18): warning C4305: '=': truncation from 'double' to 'float'
+D:\HPC Practice\Infrastructure\LBM_try_04\LBM.cpp(93,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\HPC Practice\Infrastructure\LBM_try_04\LBM.cpp(166,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\HPC Practice\Infrastructure\LBM_try_04\LBM.cpp(167,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  LBM-LID_DRIVEN_CAVITY.vcxproj -> D:\HPC Practice\Lattice boltzmann paralle codes\LBM-LID_DRIVEN_CAVITY\Debug\LBM-LID_DRIVEN_CAVITY.exe
