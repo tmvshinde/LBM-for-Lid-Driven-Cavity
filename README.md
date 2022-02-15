@@ -1,7 +1,9 @@
 # LBM-for-Lid-Driven-Cavity
 
-Open LBM file , upload to Microsoft Visual Code and simply run C++ code.
+>Open LBM file
 
-Data.dat file will be represented in folder.
+>Upload LBM.cpp to Microsoft Visual Code and simply run C++ code.
 
-For visualisation, you can use “Tecplot” or “Preview” softwares for loading .dat file and see different kind of velocity results in terms of U,V and velocity movement.
+>Data.dat file will be represented in folder.
+
+>For visualisation, you can use “Tecplot” or “Preview” softwares for loading .dat file and see different kind of velocity results in terms of U,V and velocity movement.
