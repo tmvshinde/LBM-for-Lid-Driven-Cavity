@@ -215,7 +215,7 @@ int main()
 			velocity[i][j] = sqrt(u[i][j] * u[i][j] + v[i][j] * v[i][j]);
 		}
 	}
-
+	cout << "Velocity is bla bla bla " << endl;
 	// Data file output for visualization
 	ofstream fout;
 	fout.open("Data.dat", ios::app);
